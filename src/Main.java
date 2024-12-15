@@ -3,6 +3,7 @@ import java.util.InputMismatchException;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
+        //TESTING COMMIT GITHUB
         Scanner input = new Scanner(System.in);
         Displays displays = new Displays();
         Hero[] heroes = new Hero[5];
